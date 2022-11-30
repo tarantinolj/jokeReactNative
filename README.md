@@ -11,4 +11,4 @@ API mockapi.io
 <h3 align="center"> In this repository, I will develop a mobile version of the Jokes website </h3>
 <h3 align="center"> <img src="https://bumbarashka.ru/sites/default/files/logo.png" height="40"/> <a href="https://bumbarashka.ru/" target="_blank">  Bumbarashka</a></h3>
 
-![Иллюстрация к проекту](https://github.com/tarantinolj/jokeReactNative/raw/main/assets/picturePhone.jpg)
+<h2 align="center"><img src='https://github.com/tarantinolj/jokeReactNative/raw/main/assets/picturePhone.jpg' alt='phone' /></h2>
