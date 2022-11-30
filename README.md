@@ -1,6 +1,6 @@
 npm :
-styled-component
-@react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context react-native-gesture-handler
+<p>styled-component</p>
+<p>@react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context react-native-gesture-handler</p>
 react-native-vector-icons
 API mockapi.io
 
