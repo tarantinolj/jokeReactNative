@@ -5,6 +5,7 @@ API Key   skey=asd544adDq3454weq_weqGH!SDat32yqw
 
 Получение постов https://bumbarashka.ru/api/v1/getPosts
 В постах можно управлять параметрами:
+sid=1 Для доступа
 tid=2 - ID категории
 nid=281 - ID поста
 start=0 - начальная позиция в выборке
